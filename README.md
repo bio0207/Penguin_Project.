@@ -1,4 +1,6 @@
 # Penguin Project
-This project explores the concept of reproducible data in research publications. With the the penguin dataset from the package 'palmerpenguins', I used a data pipeline to ensure my analysis and code is reproducible. Therefore, others using my code can use my code and results can be recreated independently. 
 
-Refer to and run the code in question 2 of the R markdown file present in the folder. This consists of the data pipeline to clean, create hypotheses, statistically analyse, plot results figures and make conclusions from my data
+This project explores the concept of reproducible data in scientific research publications. With the penguin dataset from the package 'palmerpenguins', I implemented a data pipeline to ensure the reproducibility of my analysis and code. Using this pipeline, others using my code can recreate the same results independently. 
+
+To review the data pipeline I created, refer to and run the code in question 2 of the R markdown file present in the folder. This consists of the entire data pipeline, including the code for data cleaning, my hypotheses, statistical analysis, figure plotting, and my conclusions from the dataset.
+
