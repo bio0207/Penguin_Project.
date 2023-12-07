@@ -6,5 +6,5 @@ To review the data pipeline I created, refer to and run the code in question 2 o
 
 If the functions are required, the cleaning function to clean the data is stored in 'functions' in the data folder.
 
-The plotting function to visualise the results figures is stored in 'functions' within the figures folder
+The plotting function to visualise the results figures is stored in 'functions' within the figures folder.
 
